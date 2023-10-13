@@ -219,4 +219,6 @@ h2{
         font-size: 12px;
         padding: 0 0.5rem;
     }
+#intro img{
+     width:300px; 
 }
